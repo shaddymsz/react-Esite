@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shaddymsz/react-Esite/static/css/main.9b35ef80.chunk.css",
+    "main.js": "/shaddymsz/react-Esite/static/js/main.134a58cf.chunk.js",
+    "main.js.map": "/shaddymsz/react-Esite/static/js/main.134a58cf.chunk.js.map",
+    "runtime-main.js": "/shaddymsz/react-Esite/static/js/runtime-main.10445a1e.js",
+    "runtime-main.js.map": "/shaddymsz/react-Esite/static/js/runtime-main.10445a1e.js.map",
+    "static/css/2.e5d8f393.chunk.css": "/shaddymsz/react-Esite/static/css/2.e5d8f393.chunk.css",
+    "static/js/2.5df09582.chunk.js": "/shaddymsz/react-Esite/static/js/2.5df09582.chunk.js",
+    "static/js/2.5df09582.chunk.js.map": "/shaddymsz/react-Esite/static/js/2.5df09582.chunk.js.map",
+    "index.html": "/shaddymsz/react-Esite/index.html",
+    "precache-manifest.131316b8112f382353d9e51ca9eac7c6.js": "/shaddymsz/react-Esite/precache-manifest.131316b8112f382353d9e51ca9eac7c6.js",
+    "service-worker.js": "/shaddymsz/react-Esite/service-worker.js",
+    "static/css/2.e5d8f393.chunk.css.map": "/shaddymsz/react-Esite/static/css/2.e5d8f393.chunk.css.map",
+    "static/css/main.9b35ef80.chunk.css.map": "/shaddymsz/react-Esite/static/css/main.9b35ef80.chunk.css.map",
+    "static/js/2.5df09582.chunk.js.LICENSE": "/shaddymsz/react-Esite/static/js/2.5df09582.chunk.js.LICENSE",
+    "static/media/logo.svg": "/shaddymsz/react-Esite/static/media/logo.9f7e506d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10445a1e.js",
+    "static/css/2.e5d8f393.chunk.css",
+    "static/js/2.5df09582.chunk.js",
+    "static/css/main.9b35ef80.chunk.css",
+    "static/js/main.134a58cf.chunk.js"
+  ]
+}
